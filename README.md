@@ -32,4 +32,17 @@
 
 ## Ответ:
 
+Terraform Playbook:
+[ roviders.tf](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/providers.tf)
+[ variables.tf](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/variables.tf)
+[ vms.tf](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/vms.tf)
+
+![Скриншот статуса балансировщика и целевой группы](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/img/100.png)
+
+![Скриншот статуса балансировщика и целевой группы](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/img/101.png)
+
+![Скриншот страницы, которая открылась при запросе IP-адреса балансировщика](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/img/102.png)
+
+
+
 ---
