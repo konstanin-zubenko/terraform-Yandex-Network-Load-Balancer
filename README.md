@@ -33,7 +33,7 @@
 ## Ответ:
 
 Terraform Playbook:
-[ roviders.tf](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/providers.tf)
+[ providers.tf](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/providers.tf)
 [ variables.tf](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/variables.tf)
 [ vms.tf](https://github.com/konstanin-zubenko/terraform-Yandex-Network-Load-Balancer/blob/main/vms.tf)
 
